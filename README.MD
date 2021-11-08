@@ -18,7 +18,7 @@ This script was written for educational usage only.
 
 #### Usage
 
-> pip install -r requirements.txt
+```pip install -r requirements.txt```
 
   
 
